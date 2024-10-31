@@ -1,0 +1,346 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Popular Authors\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 22:11+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ajay D'Souza\n"
+"Language-Team: WebberZone\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor/*\n"
+
+#: includes/admin/class-admin.php:48
+#, php-format
+msgid ""
+"Popular Authors requires Top 10 v3 or above. Please install %1$s via "
+"Plugins > Add New or deactivate this plugin."
+msgstr ""
+
+#: includes/admin/class-admin.php:67
+#: includes/frontend/widgets/class-authors-widget.php:29
+#: includes/frontend/widgets/class-authors-widget.php:170
+msgid "Popular Authors"
+msgstr ""
+
+#: includes/admin/class-admin.php:86
+msgid "Cache output"
+msgstr ""
+
+#: includes/admin/class-admin.php:87
+msgid ""
+"Turn this ON to cache the HTML output. This option uses the same settings "
+"as Top 10 and creates similar cache keys."
+msgstr ""
+
+#: includes/admin/class-admin.php:93
+msgid "Number of authors to display"
+msgstr ""
+
+#: includes/admin/class-admin.php:94
+msgid ""
+"Maximum number of authors that will be displayed in the list. This option "
+"is used if you do not specify the number of posts in the block, widget or "
+"shortcode."
+msgstr ""
+
+#: includes/admin/class-admin.php:102
+msgid "Default custom period range"
+msgstr ""
+
+#: includes/admin/class-admin.php:103
+msgid ""
+"The next two options allow you to set the default range for the custom "
+"period."
+msgstr ""
+
+#: includes/admin/class-admin.php:108
+msgid "Day(s)"
+msgstr ""
+
+#: includes/admin/class-admin.php:117
+msgid "Hour(s)"
+msgstr ""
+
+#: includes/admin/class-admin.php:127
+msgid "Show views"
+msgstr ""
+
+#: includes/admin/class-admin.php:128
+msgid ""
+"Show the total number of views in parenthesis next to the author's name"
+msgstr ""
+
+#: includes/admin/class-admin.php:134
+msgid "Exclude 'admin' account"
+msgstr ""
+
+#: includes/admin/class-admin.php:141
+msgid "Show full name"
+msgstr ""
+
+#: includes/admin/class-admin.php:142
+msgid "Whether to show the author's full name instead of the display name"
+msgstr ""
+
+#: includes/admin/class-admin.php:148
+#: includes/frontend/blocks/popular-authors/src/edit.js:231
+#: includes/frontend/widgets/class-authors-widget.php:91
+msgid "Show Avatar"
+msgstr ""
+
+#: includes/admin/class-admin.php:149
+msgid "Whether to show the author's avatar"
+msgstr ""
+
+#: includes/admin/class-admin.php:155
+msgid "HTML to display"
+msgstr ""
+
+#: includes/admin/class-admin.php:161
+msgid "Before the list of posts"
+msgstr ""
+
+#: includes/admin/class-admin.php:168
+msgid "After the list of posts"
+msgstr ""
+
+#: includes/admin/class-admin.php:175
+msgid "Before each list item"
+msgstr ""
+
+#: includes/admin/class-admin.php:182
+msgid "After each list item"
+msgstr ""
+
+#: includes/admin/class-admin.php:189
+msgid "Styles"
+msgstr ""
+
+#: includes/admin/class-admin.php:195
+msgid "Popular Authors style"
+msgstr ""
+
+#: includes/admin/class-admin.php:217
+msgid "No styles"
+msgstr ""
+
+#: includes/admin/class-admin.php:218
+msgid "Select this option if you plan to add your own styles"
+msgstr ""
+
+#: includes/admin/class-admin.php:222
+msgid "Card Layout"
+msgstr ""
+
+#: includes/admin/class-admin.php:223
+msgid "Display the popular authors in a card layout using CSS grid"
+msgstr ""
+
+#: includes/admin/class-admin.php:227
+msgid "Left Thumbs"
+msgstr ""
+
+#: includes/admin/class-admin.php:228
+msgid ""
+"Display the popular authors in a grid with the image to the left of the "
+"text"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:119
+msgid "Popular Authors Settings"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:126
+msgid "Max authors to display"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:132
+msgid ""
+"Value -1 (all authors) is supported, but should be used with caution on "
+"larger sites."
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:141
+msgid "Custom period?"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:144
+msgid "Set range below"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:146
+msgid "Overall popular posts will be shown"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:158
+msgid "Daily range"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:161
+msgid "Number of days"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:168
+msgid "Hour range"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:171
+msgid "Number of hours"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:178
+#: includes/frontend/widgets/class-authors-widget.php:71
+msgid "Offset"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:182
+msgid ""
+"Number of authors to offset in retrieved results. Only applies if number "
+"of authors set above is >0"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:191
+#: includes/frontend/widgets/class-authors-widget.php:76
+msgid "Show count"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:195
+msgid "Count displayed"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:199
+msgid "No count displayed"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:211
+msgid "Show Full Name"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:215
+msgid "Full Name is displayed"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:219
+msgid "Display Name is displayed"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:235
+msgid "Avatar displayed"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:239
+msgid "No avatar displayed"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:251
+msgid "Exclude admin"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:255
+msgid "'admin' account is excluded"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:259
+msgid "'admin' account is included"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:272
+msgid "Hide authors with no posts"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:278
+msgid "Authors with no posts are excluded"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:282
+msgid "Authors with no posts are included"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:295
+msgid "Author IDs to include"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:301
+msgid "Comma-separated list of author IDs to include"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:311
+msgid "Author IDs to exclude"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:317
+msgid "Comma-separated list of author IDs to exclude"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:327
+msgid "Other attributes"
+msgstr ""
+
+#: includes/frontend/blocks/popular-authors/src/edit.js:333
+msgid "Enter other attributes in a URL-style string-query."
+msgstr ""
+
+#: includes/frontend/class-display.php:60
+msgid "Please install and activate Top 10 plugin to display popular authors."
+msgstr ""
+
+#: includes/frontend/class-display.php:185
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:31
+msgid "Display popular authors"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:61
+msgid "Title"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:66
+msgid "No. of authors"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:81
+msgid "Exclude admins"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:86
+msgid "Show full name of Author"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:95
+msgid "Time range"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:97
+msgid "Overall"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:98
+msgid "Custom time period (Enter below)"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:102
+msgid "In days and hours (applies only to custom option above)"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:104
+msgid "days"
+msgstr ""
+
+#: includes/frontend/widgets/class-authors-widget.php:107
+msgid "hours"
+msgstr ""
